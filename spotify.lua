@@ -45,11 +45,6 @@ function onPoseEdge(pose, edge)
 
 end
 
-
-function onPeriodic()
-  local foo
-end
-
 function onForegroundWindowChange(app, title)
   local wantActive = false
   activeApp = ''
