@@ -1,4 +1,4 @@
-scriptId = 'com.kao.spotify.remote'
+scriptId = 'com.kao.spotify'
 
 -- Unlock mechanism
 function unlock()
